@@ -139,14 +139,6 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    /*public void OnReset()
-    {
-        sliderMusic.value = 0.8f;
-        sliderSFX.value = 0.5f;
-        music.volume = sliderMusic.value;
-        musicSFX.volume = sliderSFX.value;
-    }*/
-
     public void MainMenu()
     {
         SceneManager.LoadScene(0);

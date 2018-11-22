@@ -49,11 +49,6 @@ public class Menu : MonoBehaviour {
         //Debug.Log(musicVolume);
     }
 
-    /*public void OnSliderValue()
-    {
-        
-    }*/
-
     public void OnReset()
     {
         slider.value = 0.8f;
